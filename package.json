@@ -1,0 +1,11 @@
+{
+  "name": "siva-ultra-ai",
+  "version": "1.0.0",
+  "description": "Prediction Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
